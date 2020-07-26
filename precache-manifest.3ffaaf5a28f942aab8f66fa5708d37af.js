@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "47a4cfe605ef2e906633352a3349a900",
+    "revision": "5ef4cfa9b732ef68b91acf8a6522a02d",
     "url": "/PumaTheRobot/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/PumaTheRobot/static/css/2.3c03f26f.chunk.css"
   },
   {
-    "revision": "ed682237cef48b5fba26",
+    "revision": "9065fd9ee388baba785a",
     "url": "/PumaTheRobot/static/css/main.ea23231e.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/PumaTheRobot/static/js/2.f690e5d6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ed682237cef48b5fba26",
-    "url": "/PumaTheRobot/static/js/main.ee050f1c.chunk.js"
+    "revision": "9065fd9ee388baba785a",
+    "url": "/PumaTheRobot/static/js/main.6dcdf629.chunk.js"
   },
   {
     "revision": "b96fb5961059dc8bc7d3",

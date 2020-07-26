@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/PumaTheRobot/precache-manifest.679676f96c11fd068033959ed72a4e4a.js"
+  "/PumaTheRobot/precache-manifest.3ffaaf5a28f942aab8f66fa5708d37af.js"
 );
 
 self.addEventListener('message', (event) => {
